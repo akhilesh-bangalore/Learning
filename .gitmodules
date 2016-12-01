@@ -1,3 +1,6 @@
 [submodule "Go"]
 	path = Go
 	url = https://github.com/akhilesh-bangalore/Learning-GoLang.git
+[submodule "Learning-Ecmascript-2015"]
+	path = Learning-Ecmascript-2015
+	url = https://github.com/akhilesh-bangalore/Learning-Ecmascript-2015
